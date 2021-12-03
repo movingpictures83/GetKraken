@@ -1,0 +1,2 @@
+Prefix plugins/GetKraken/example
+Plugin GetKraken inputfile Protozoa outputfile protist
